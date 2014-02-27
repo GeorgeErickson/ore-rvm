@@ -1,0 +1,5 @@
+development_dependencies:
+  pry: ''
+  guard: ''
+  guard-rspec: ''
+  guard-rubocop: ''
